@@ -1,0 +1,5 @@
+v1	named	intermediary
+FIELD	me/alpha432/oyvey/mixin/ClientConnectionMixin	Lio/netty/channel/Channel;	channel	field_11651
+FIELD	me/alpha432/oyvey/mixin/ClientConnectionMixin	Lnet/minecraft/network/NetworkSide;	side	field_11643
+FIELD	me/alpha432/oyvey/mixin/ClientNetworkHandlerMixin	Lnet/minecraft/client/world/ClientWorld;	world	field_3699
+FIELD	me/alpha432/oyvey/mixin/RenderTickCounterMixin	F	lastFrameDuration	field_51958

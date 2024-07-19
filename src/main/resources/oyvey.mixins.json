@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "me.alpha432.oyvey.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ClientConnectionMixin"
+  ],
+  "client": [
+    "KeyboardMixin",
+    "ClientNetworkHandlerMixin",
+    "ClientPlayerEntityMixin",
+    "InGameHudMixin",
+    "RenderTickCounterMixin",
+    "WorldRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
