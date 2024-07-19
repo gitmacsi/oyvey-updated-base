@@ -2,7 +2,8 @@
 
 # oyvey-ported
 Kosher client base ported to Minecraft 1.20.4 by [@cattyngmd](https://github.com/cattyngmd)
-
+<br>
+Ported to 1.21 by [@gitmacsi](https://github.com/gitmacsi)
 <img src="https://i.imgur.com/Lu6rDJB.png" width="90%" />
 
 # Why
